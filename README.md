@@ -1,6 +1,6 @@
 # app-dev
 My first repository
-## favorite series
+### favorite series
 1. Twinkling Watermelon
 2. Alchemy of souls
 3. Business proposal
